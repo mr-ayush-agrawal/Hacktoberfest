@@ -13,7 +13,9 @@ This is a Month long celebration of the open source contibution. By the name onl
 
 
 <H1><center><B>Contributors 😄</B> </center> </H1>
- ## HAPPY HACKING!!🥳
+
+## HAPPY HACKING!!🥳
+
  <a href="https://github.com/mr-ayush-agrawal/Hacktoberfest/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=mr-ayush-agrawal/Hacktoberfest" />
 </a>
