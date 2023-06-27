@@ -6,6 +6,15 @@
 ---
 This is a Month long celebration of the open source contibution. By the name only we can guess it is celebrated in the month of October, and you are invted to join the community as an enthusiast, Developer or even as a beginner.
 
+# Instructions 📜
+
+- First fork this repository.
+- Repeated codes will not be merged.
+- The quality of pull requests is paramount,quantity comes second.
+- Submit atleast four pull requests.
+- No programming language boundation.
+ 
+
 ## Rewards🥇
 - For beginners this is the great opportunity to dive in the pool of open source.
 - Laptop stickers
