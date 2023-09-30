@@ -1,9 +1,9 @@
-<h1 align="center"> Hacktoberfest 2022 <br></h1>
+<h1 align="center"> Hacktoberfest 2023 <br></h1>
 
-[<img src="https://hacktoberfest.com/_next/static/media/opengraph.da6e44c0.png" width="100%">](https://hacktoberfest.com/)
+[<img src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg" width="100%">](https://hacktoberfest.com/)
 
 ## What is Hacktoberfest ✨ ?
----
+
 This is a Month long celebration of the open source contibution. By the name only we can guess it is celebrated in the month of October, and you are invted to join the community as an enthusiast, Developer or even as a beginner.
 
 # Instructions 📜
@@ -88,10 +88,10 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributio
 
 
 
-<H1><center><B>Contributors 😄</B> </center> </H1>
-
-## HAPPY HACKING!!🥳
+<H2><center><B>Contributors 😄</B> </center> </H2>
 
  <a href="https://github.com/mr-ayush-agrawal/Hacktoberfest/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=mr-ayush-agrawal/Hacktoberfest" />
 </a>
+
+# HAPPY HACKING!!🥳
