@@ -18,7 +18,7 @@ This is a Month long celebration of the open source contibution. By the name onl
 ## Rewards🥇
 - For beginners this is the great opportunity to dive in the pool of open source.
 - Laptop stickers
-- Hacktoberfest T-shirt👕/Tree🌱(Tree planted in your name and help make Hacktoberfest 2021 more carbon neutral) 
+- Digital goodies 
 
 ## 🚀 Quick Start :
 
