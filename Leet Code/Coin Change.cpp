@@ -1,5 +1,4 @@
-//Leetcode: https://leetcode.com/problems/coin-change/solutions/1371738/c-recursion-dp-memoization-dp-tabulation/
-
+//Leetcode: https://leetcode.com/problems/coin-change/description/
 
 //Recursion:
 
