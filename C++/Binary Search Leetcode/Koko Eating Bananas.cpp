@@ -1,3 +1,5 @@
+// Question link: https://leetcode.com/problems/koko-eating-bananas/ //
+
 class Solution {
 private:
     long long totalHoursTaken(vector<int> &piles, int hourly) {
