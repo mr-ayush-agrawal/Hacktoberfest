@@ -15,10 +15,21 @@ This is a Month long celebration of the open source contibution. By the name onl
 - No programming language boundation.
  
 
-## Rewards🥇
-- For beginners this is the great opportunity to dive in the pool of open source.
-- Laptop stickers
-- Digital goodies 
+## Digital Rewards
+
+For Hacktoberfest 2023, you have the opportunity to earn digital rewards as a recognition of your contributions. These rewards may include:
+
+- **Digital Certificates**: You'll receive a digital certificate of participation that you can proudly display on your GitHub profile or social media.
+
+- **Exclusive Badges**: Unlock exclusive Hacktoberfest badges for your GitHub profile to showcase your commitment to open source.
+
+- **Special Mention**: Some projects may feature top contributors on their README or website, giving you recognition for your valuable contributions.
+
+Please note that this year, there are no physical rewards like T-shirts and stickers. Instead, we're focusing on recognizing your efforts and contributions in the digital space.
+
+## Get Involved
+
+Hacktoberfest is not just about rewards; it's also an excellent opportunity to contribute to open source projects, learn from others, and connect with the global developer community. So, roll up your sleeves, pick your favorite projects, and start contributing!
 
 ## 🚀 Quick Start :
 
