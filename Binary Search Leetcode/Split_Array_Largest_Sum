@@ -1,0 +1,32 @@
+//problem name: 410. Split Array Largest Sum
+//problem link: https://leetcode.com/problems/split-array-largest-sum/description/
+class Solution {
+public:
+    bool solve(int mid,vector<int>&nums, int k){
+        int temp =0;
+        int count =1;
+        for(auto it: nums){
+            temp+=it;
+            if(temp>mid){
+                temp = it;
+                count++;
+            }
+            if(count>k)return false;
+        }
+        return true;
+    }
+    int splitArray(vector<int>& nums, int k) {
+        int low = *max_element(nums.begin(),nums.end());
+        int high = accumulate(nums.begin(),nums.end(),0);
+        int ans =-1;
+        while(low<=high){
+            int mid = low+(high-low)/2;
+            if(solve(mid,nums,k)){
+                ans = mid;
+                high = mid-1;
+            }
+            else low = mid+1;
+        }
+        return ans;
+    }
+};
